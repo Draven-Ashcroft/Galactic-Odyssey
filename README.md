@@ -41,10 +41,10 @@ An interactive HTML-based educational simulator exploring the evolution of the U
 
 🛠️ Credits & Acknowledgments
 
-* Claude — Code architecture and implementation.
-* OpenAI — Prompt generation and scientific refinement.
-* Kimi AI — Initial development draft.
-* Perplexity AI — Scientific debugging and validation.
+* Claude Anthropic: Code architecture.
+* OpenAI:  Prompt generation & refinement.
+* Moonshot AI:  Initial Code implementation.
+* Perplexity: Scientific validation.
 
 ---
 
