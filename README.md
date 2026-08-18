@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/repository-banner.png" alt="Galactic Odyssey Banner" width="100%">
+  <img src="assets/banner.png" alt="Galactic Odyssey Banner" width="100%">
 </p>🌌 Galactic Odyssey
 
 Interactive Cosmic Evolution Simulator
